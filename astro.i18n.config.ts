@@ -5,7 +5,7 @@ const siteUrl = 'https://lawellpietonne.com'
 const fr = {
   siteUrlBase: siteUrl,
   siteUrl,
-  siteName: 'La Well piétonne',
+  siteName: 'Mont Royal piétonne',
   siteDescription: 'Consultation publique et pétition pour la piétonnisation permanente de la rue Wellington',
 
   otherLangs: {
@@ -73,7 +73,7 @@ const fr = {
 const en = {
   siteUrlBase: siteUrl,
   siteUrl: `${siteUrl}/en`,
-  siteName: 'La Well Piétonne',
+  siteName: 'Mont Royal Piétonne',
   siteDescription: 'A public consultation and petition to pedestrianize Wellington street permanently',
 
   otherLangs: {
