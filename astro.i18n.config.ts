@@ -6,7 +6,7 @@ const fr = {
   siteUrlBase: siteUrl,
   siteUrl,
   siteName: 'Mont Royal piétonne',
-  siteDescription: 'Consultation publique et pétition pour la piétonnisation permanente de la rue Wellington',
+  siteDescription: 'Consultation publique et pétition pour la piétonnisation permanente de MONT ROYAL 🎊',
 
   otherLangs: {
     en: 'English'
@@ -74,7 +74,7 @@ const en = {
   siteUrlBase: siteUrl,
   siteUrl: `${siteUrl}/en`,
   siteName: 'Mont Royal Piétonne',
-  siteDescription: 'A public consultation and petition to pedestrianize Wellington street permanently',
+  siteDescription: 'A public consultation and petition to pedestrianize MONT ROYAL 🎊 street permanently',
 
   otherLangs: {
     fr: 'Français'
