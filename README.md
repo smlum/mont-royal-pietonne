@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/351e382a-960c-469e-b3e6-afeec1e4718b/deploy-status)](https://app.netlify.com/sites/lawellpietonne/deploys)
 
-# La Well Piétonne
+# Mont Royal Piétonne
 
-Website for La Well Piétonne. A citizens' initiative to make Wellington a year-round pedestrian street.
+Website for Mont Royal Piétonne (forked from La Well Piétonne). A citizens' initiative to make Mont Royal a year-round pedestrian street.
 
 ## Dependencies
 
