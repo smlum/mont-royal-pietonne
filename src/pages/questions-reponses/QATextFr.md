@@ -50,7 +50,7 @@ En ce qui concerne l'accessibilité pour les aînés, il est important de noter 
 
 Les aînés de plus de 65 ans représentent 18 % de la population du Québec [mais la moitié des piétons tués dans des collisions chaque année.](https://www.lapresse.ca/actualites/2020-02-15/aines-tues-par-des-automobilistes-la-derniere-marche) La diversification des options de mobilité permettra d'éviter des tragédies et de promouvoir une plus grande équité en matière de transport.
 
-_Nous voulons entendre les personnes à mobilité réduite pour comprendre les besoins et les préoccupations, afin que nous puissions défendre une vision du Well accessible et durable. Si vous ou quelqu'un que vous connaissez souhaitez être contacté à ce sujet, [envoyez-nous un courriel](mailto:lawellpietonne@gmail.com)._
+_Nous voulons entendre les personnes à mobilité réduite pour comprendre les besoins et les préoccupations, afin que nous puissions défendre une vision du Well accessible et durable. Si vous ou quelqu'un que vous connaissez souhaitez être contacté à ce sujet, [envoyez-nous un courriel](mailto:montroyalpietonne@gmail.com)._
 
 
 ## Les commerces ne souffriront-ils pas si Wellington est piétonne?

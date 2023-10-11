@@ -6,23 +6,23 @@ const { langCode } = astroI18n;
 const steps: Step[] = [
   {
     date: {
-      fr: "24 avril",
-      en: "April 24",
+      fr: "à confirmer",
+      en: "TBA",
     },
     title: {
       fr: "Pétition approuvé",
       en: "Petition approved",
     },
     subtitle: {
-      fr: "par l'arrondissement de Verdun",
-      en: "by the borough of Verdun",
+      fr: "par l'arrondissement du Plateau",
+      en: "by the borough of the Plateau",
     },
-    completed: true,
+    completed: false,
   },
   {
     date: {
-      fr: "10 mai",
-      en: "May 10",
+      fr: "à confirmer",
+      en: "TBA",
     },
     title: {
       fr: "Début de la période de signatures",
@@ -32,35 +32,35 @@ const steps: Step[] = [
       fr: "90 jours",
       en: "90 days",
     },
-    completed: true,
+    completed: false,
   },
   {
     date: {
-      fr: "7 août",
-      en: "August 7",
+      fr: "à confirmer",
+      en: "TBA",
     },
     title: {
       fr: "Fin de la période de signatures",
       en: "Signature period ends",
     },
     subtitle: {
-      fr: "3322 signatures collectées",
-      en: "3322 signatures collected",
+      fr: "",
+      en: "",
     },
-    completed: true,
+    completed: false,
   },
   {
     date: {
-      fr: "Automne 2023",
-      en: "Fall 2023",
+      fr: "à confirmer",
+      en: "TBA",
     },
     title: {
       fr: "Consultation publique",
       en: "Public consultation",
     },
     subtitle: {
-      fr: "avec les résidents de Verdun",
-      en: "with residents of Verdun",
+      fr: "avec les résidents du Plateau",
+      en: "with residents of the Plateau",
     },
     completed: false,
   },
@@ -113,7 +113,7 @@ const steps: Step[] = [
 <style>
   :root {
     /* Total elapsed initiative progress 0-1 */
-    --progress: 0.8;
+    --progress: 0.;
     --progress-pct: calc(100% * var(--progress));
 
     --step-circle-size: 40px;

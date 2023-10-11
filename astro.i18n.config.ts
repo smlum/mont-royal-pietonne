@@ -1,6 +1,6 @@
 import { defineAstroI18nConfig } from 'astro-i18n'
 
-const siteUrl = 'https://lawellpietonne.com'
+const siteUrl = 'https://montroyalpietonne.com'
 
 const fr = {
   siteUrlBase: siteUrl,
@@ -51,7 +51,7 @@ const fr = {
   contactUs: 'Contactez-nous',
 
   questionsAndAnswersHeading: 'Questions et réponses',
-  questionsAndAnswersBody: `En tant que résidents de Verdun, nous avons vu le succès et les éloges de la piétonnisation estivale de Wellington et ses avantages pour la communauté. 
+  questionsAndAnswersBody: `En tant que résidents du Plateau, nous avons vu le succès et les éloges de la piétonnisation estivale d'Avenue Mont Royal et ses avantages pour la communauté. 
   Notre proposition d'étendre cette piétonnisation a suscité de nombreuses interrogations sur sa logique et sa faisabilité.`,
   questionsAndAnswersCta: 'Lisez notre page Questions et réponses',
 
@@ -64,7 +64,7 @@ const fr = {
 
   online: 'En ligne',
   petitionLinkText: 'Signer la pétition sur montreal.ca',
-  onlinePetitionNotice: 'Résidents de Verdun âgé de 15 ans ou plus.',
+  onlinePetitionNotice: 'Résidents du Plateau âgé de 15 ans ou plus.',
 
   petitionUrl: 'https://montreal.ca/petitions/detail/6428dc4ac490e6ee4229c32a',
   petitionSignUrl: 'https://montreal.ca/petitions/signer/6428dc4ac490e6ee4229c32a',
@@ -81,10 +81,10 @@ const en = {
   },
   isoLangCode: 'en-ca',
 
-  headerDescription: 'A citizens\' initiative to make Wellington a year-round pedestrian street',
+  headerDescription: 'A citizens\' initiative to make Avenue Mont Royal a year-round pedestrian street',
 
   howToSignHeading: 'How to sign the petition',
-  howToSign: 'Residents of Verdun can sign the petition to order a public consultation with the borough.',
+  howToSign: 'Residents of the Plateau can sign the petition to order a public consultation with the borough.',
   atASupportingBusiness: 'At a supporting business',
   upcomingEvents: 'Upcoming events',
 
@@ -110,7 +110,7 @@ const en = {
   and: 'and',
 
   completeHeading: 'Thank you!',
-  completeBody: 'The borough of Verdun has confirmed that we have collected the required number of signatures! The date of the public consultation will soon be announced.',
+  completeBody: 'The borough of the Plateau has confirmed that we have collected the required number of signatures! The date of the public consultation will soon be announced.',
 
   inspirationAndReading: 'Inspiration and reading',
 
@@ -119,7 +119,7 @@ const en = {
   contactUs: 'Contact us',
 
   questionsAndAnswersHeading: 'Questions and answers',
-  questionsAndAnswersBody: `As Verdun residents, we've seen the success and acclaim of the summer pedestrianization of Wellington and its benefits to the community.
+  questionsAndAnswersBody: `As Plateau residents, we've seen the success and acclaim of the summer pedestrianization of Mont Royal street and its benefits to the community.
   Our proposal to extend this pedestrianization has led to many questions on its rationale and feasibility.`,
   questionsAndAnswersCta: 'Read our Questions and answers page',
 
@@ -132,7 +132,7 @@ const en = {
 
   online: 'Online',
   petitionLinkText: 'Sign the petition on montreal.ca',
-  onlinePetitionNotice: 'Must be a resident of Verdun age 15 or older.',
+  onlinePetitionNotice: 'Must be a resident of the Plateau age 15 or older.',
 
   petitionUrl: 'https://montreal.ca/en/petitions/details/6428dc4ac490e6ee4229c32a',
   petitionSignUrl: 'https://montreal.ca/en/petitions/sign/6428dc4ac490e6ee4229c32a',

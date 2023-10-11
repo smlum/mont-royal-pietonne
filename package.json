@@ -1,8 +1,8 @@
 {
-  "name": "la-well-pietonne",
+  "name": "mont-royal-pietonne",
   "version": "1.0.0",
   "private": true,
-  "description": "Website for La Well Piétonne. A citizens' initiative to make Wellington a year-round pedestrian street.",
+  "description": "Website for Mont Royal Piétonne. A citizens' initiative to make Avenue Mont Royal a year-round pedestrian street.",
   "license": "gabagool",
   "scripts": {
     "dev": "yarn i18n:sync && astro dev",

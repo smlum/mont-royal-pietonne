@@ -51,7 +51,7 @@ On accessibility for seniors, it's important to note that [we outlive our drivin
 
 Seniors over 65 represent 18% of the population of Quebec [but half of pedestrians killed in collisions each year.](https://www.lapresse.ca/actualites/2020-02-15/aines-tues-par-des-automobilistes-la-derniere-marche) Diversifying mobility options will prevent tragedies and promote greater transportation equity.
 
-_We want to hear from mobility-reduced people to understand needs and concerns, so we can advocate for a vision of the Well that is accessible and sustainable. If you or someone you know would like to be in touch about this, [email us](mailto:lawellpietonne@gmail.com)._
+_We want to hear from mobility-reduced people to understand needs and concerns, so we can advocate for a vision of the Well that is accessible and sustainable. If you or someone you know would like to be in touch about this, [email us](mailto:montroyalpietonne@gmail.com)._
 
 ## Won't business suffer if Wellington is pedestrianized?
 
