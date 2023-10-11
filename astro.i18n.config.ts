@@ -13,7 +13,7 @@ const fr = {
   },
   isoLangCode: 'fr-ca',
 
-  headerDescription: 'Une initiative citoyenne pour piétonniser MONT ROYAL toute l\'année 🎊',
+  headerDescription: 'Une initiative citoyenne pour piétonniser Avenue Mont Royal toute l\'année',
 
   howToSignHeading: 'Comment signer',
   howToSign: 'Les résidents de Verdun peuvent signer la pétition pour demander une consultation publique auprès de l\'arrondissement.',
@@ -74,7 +74,7 @@ const en = {
   siteUrlBase: siteUrl,
   siteUrl: `${siteUrl}/en`,
   siteName: 'Mont Royal Piétonne',
-  siteDescription: 'A public consultation and petition to pedestrianize MONT ROYAL 🎊 street permanently',
+  siteDescription: 'A public consultation and petition to pedestrianize Avenue Mont Royal permanently',
 
   otherLangs: {
     fr: 'Français'
