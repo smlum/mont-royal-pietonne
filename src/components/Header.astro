@@ -1,6 +1,7 @@
 ---
 import { astroI18n, t, l } from "astro-i18n";
 import LangSwitcher from "./LangSwitcher.astro";
+import GameLink from "./GameLink.astro";
 import Logo from "./Logo.astro";
 
 const { defaultLangCode, supportedLangCodes, langCode } = astroI18n;
@@ -11,6 +12,10 @@ const otherLangCodes = langCodes.filter(
 ---
 
 <header>
+  <!-- <div id="game-link">
+    <GameLink />
+  </div> -->
+
   <div id="lang-switcher">
     <LangSwitcher {otherLangCodes} />
   </div>
@@ -45,6 +50,13 @@ const otherLangCodes = langCodes.filter(
     background-position: center;
   }
 
+  #game-link {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0.25rem 0.5rem var(--header-padding);
+  }
+
   #lang-switcher {
     width: 100%;
     display: flex;
@@ -66,7 +78,7 @@ const otherLangCodes = langCodes.filter(
   }
 
   #header-description {
-    max-width: 30rem;
+    max-width: 33rem;
     margin: 0 1.5rem;
     filter: var(--header-text-drop-shadow);
   }

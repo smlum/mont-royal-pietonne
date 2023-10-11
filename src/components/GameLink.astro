@@ -1,0 +1,19 @@
+---
+interface Props {
+}
+
+const { url } = Astro;
+---
+
+{
+    <a class="game-link" href={url.pathname + 'game'}>
+        Game
+    </a>
+}
+
+<style>
+  a.game-link {
+    font-weight: bold;
+    color: white;
+  }
+</style>
