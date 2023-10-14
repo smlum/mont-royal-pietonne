@@ -13,7 +13,7 @@ const fr = {
   },
   isoLangCode: 'fr-ca',
 
-  headerDescription: 'Une initiative citoyenne pour piétonniser Avenue Mont Royal toute l\'année',
+  headerDescription: 'Une initiative citoyenne pour piétonniser Avenue du Mont Royal toute l\'année',
 
   howToSignHeading: 'Comment signer',
   howToSign: 'Les résidents de Verdun peuvent signer la pétition pour demander une consultation publique auprès de l\'arrondissement.',
@@ -51,7 +51,7 @@ const fr = {
   contactUs: 'Contactez-nous',
 
   questionsAndAnswersHeading: 'Questions et réponses',
-  questionsAndAnswersBody: `En tant que résidents du Plateau, nous avons vu le succès et les éloges de la piétonnisation estivale d'Avenue Mont Royal et ses avantages pour la communauté. 
+  questionsAndAnswersBody: `En tant que résidents du Plateau, nous avons vu le succès et les éloges de la piétonnisation estivale de l'Avenue du Mont Royal et ses avantages pour la communauté. 
   Notre proposition d'étendre cette piétonnisation a suscité de nombreuses interrogations sur sa logique et sa faisabilité.`,
   questionsAndAnswersCta: 'Lisez notre page Questions et réponses',
 
@@ -74,14 +74,14 @@ const en = {
   siteUrlBase: siteUrl,
   siteUrl: `${siteUrl}/en`,
   siteName: 'Mont Royal Piétonne',
-  siteDescription: 'A public consultation and petition to pedestrianize Avenue Mont Royal permanently',
+  siteDescription: 'A public consultation and petition to pedestrianize Mont Royal Ave. permanently',
 
   otherLangs: {
     fr: 'Français'
   },
   isoLangCode: 'en-ca',
 
-  headerDescription: 'A citizens\' initiative to make Avenue Mont Royal a year-round pedestrian street',
+  headerDescription: 'A citizens\' initiative to make Mont Royal Ave. a year-round pedestrian street',
 
   howToSignHeading: 'How to sign the petition',
   howToSign: 'Residents of the Plateau can sign the petition to order a public consultation with the borough.',
@@ -119,7 +119,7 @@ const en = {
   contactUs: 'Contact us',
 
   questionsAndAnswersHeading: 'Questions and answers',
-  questionsAndAnswersBody: `As Plateau residents, we've seen the success and acclaim of the summer pedestrianization of Mont Royal street and its benefits to the community.
+  questionsAndAnswersBody: `As Plateau residents, we've seen the success and acclaim of the summer pedestrianization of Mont Royal Ave. and its benefits to the community.
   Our proposal to extend this pedestrianization has led to many questions on its rationale and feasibility.`,
   questionsAndAnswersCta: 'Read our Questions and answers page',
 

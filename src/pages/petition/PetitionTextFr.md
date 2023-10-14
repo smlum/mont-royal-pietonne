@@ -1,6 +1,6 @@
-## Piétonniser la Avenue Mont Royal en permanence
+## Piétonniser l'Avenue du Mont Royal en permanence
 
-La piétonnisation estivale d'Avenue Mont Royal a été acclamée par les résidents,
+La piétonnisation estivale de l'Avenue du Mont Royal a été acclamée par les résidents,
 les conseillers et les médias. Malgré la logistique d'installation et de démontage de l'événement chaque année, le
 commerce, le transit et la fonction générale ont été maintenus.
 

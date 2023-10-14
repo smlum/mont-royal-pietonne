@@ -1,6 +1,6 @@
-## Pedestrianize Mont Royal street permanently
+## Pedestrianize Mont Royal Ave. permanently
 
-The summer pedestrianization of Mont Royal street has received acclaim from residents, public officials, and the media. Despite the logistics of installation and dismantling the event each year, commerce, transit and general function are all maintained.
+The summer pedestrianization of Mont Royal Ave. has received acclaim from residents, public officials, and the media. Despite the logistics of installation and dismantling the event each year, commerce, transit and general function are all maintained.
 
 In the interests of the community, we are calling to pedestrianize this street permanently.
 

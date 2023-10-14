@@ -1,6 +1,6 @@
 ## Questions et réponses
 
-En tant que résidents du Plateau, nous avons vu le succès et les éloges de la piétonnisation estivale d'Avenue du Mont Royal et ses avantages pour la communauté. Notre proposition d'étendre cette piétonnisation a suscité de nombreuses interrogations sur sa logique et sa faisabilité :
+En tant que résidents du Plateau, nous avons vu le succès et les éloges de la piétonnisation estivale de l'Avenue du Mont Royal et ses avantages pour la communauté. Notre proposition d'étendre cette piétonnisation a suscité de nombreuses interrogations sur sa logique et sa faisabilité :
 
 ## Table des matières
 
@@ -28,7 +28,7 @@ Les rues et les zones sans voiture sont l'un des moyens les plus efficaces de r�
 
 Des résidents de Verdun ayant un intérêt pour l'équité sociale et un désir d'améliorer notre environnement urbain.
 
-## Quelle partie d'Avenue du Mont Royal proposez-vous de rendre piétonne?
+## Quelle partie de l'Avenue du Mont Royal proposez-vous de rendre piétonne?
 
 Nous proposons de piétonniser le même secteur qu'en été - de la rue Saint-Laurent à rue d'Iberville.
 
@@ -38,9 +38,9 @@ Avenue du Mont Royal devrait être universellement accessible. Les personnes âg
 
 Avenue du Mont Royal a actuellement plusieures d'obstacles d'accessibilité. Une rue piétonne serait l'occasion de résoudre ces problèmes en ajoutant des rampes d'accès, et à l'avenir, de [soulever la rue](https://hudsoncountyview.com/n-j-group-names-jersey-citys-newark-ave-pedestrian-plaza-municipal-project-of-the-year/) au niveau des portes du magasin. Pour l'instant en été, nous avons des rampes d'accès supplémentaires en bordure de rue et des places de stationnement accessibles dans les rues transversales.
 
-<figure>
+<!-- <figure>
   <img src="/img/q-and-a/business-stairs.jpg" alt="Deux marches menant à la porte d'entrée d'une épicerie sur Wellington" />
-</figure>
+</figure> -->
 
 Lorsque l'on parle d'accessibilité, il faut tenir compte de la variété des problèmes de santé qui peuvent avoir un impact sur la mobilité, dont beaucoup ne correspondent pas à nos présomptions. Par exemple, il existe des troubles des fonctions cognitives, neurologiques et motrices qui rendent la conduite impraticable ou impossible.
 
@@ -59,20 +59,20 @@ Une étude analysant les rues commerciales de Montréal révèle que plus d'espa
 
 Les préoccupations concernant les livraisons, le stationnement et son impact sur les commerces sont souvent évoqués lorsque l'espace réservé aux voitures est supprimé même si une fois ces projets sont terminés, [ces peurs ne se concrétisent pas](https://montrealgazette.com/news/local-news/jean-talon-market-merchants-coming-around-to-new-square-despite-loss-of-parking).
 
-Sur Wellington, l'augmentation du trafic piétonnier sur Wellington dans le cadre d’une potentielle piétonisation permanente a déjà été quantifiée. En 2021, la deuxième année de piétonnisation estivale, [le trafic piétonnier a augmenté de 17%](https://www.lapresse.ca/actualites/grand-montreal/2022-04-04/dix-rues-de-montreal-reservees-aux-pietons-pour-les-trois-prochains-etes.php).
+Sur l'Avenue du Mont Royal, l'augmentation du trafic piétonnier dans le cadre d’une potentielle piétonisation permanente a déjà été quantifiée. En 2022, la troisième année de piétonnisation estivale, [le trafic piétonnier a augmenté de 10%](https://mcusercontent.com/7a2232a3f73ab85deec690389/files/57da9748-3576-d07e-87f3-c473a325b482/BILAN_2022.pdf).
 
-La vie commerciale sur Wellington est déjà exceptionnelle. Selon la SDC, les commerces de cette rue ont [à cinq ans un taux de survie proche de 70%](https://www.promenadewellington.com/fr/locaux-louer-commerciaux-verdun/), dépassant la moyenne canadienne. Si les revenus des entreprises doivent atteindre un seuil pour que la piétonnisation soit envisagée, Wellington est un choix approprié, déjà [répondant aux normes prescrites](https://collectivitesviables.org/articles/rues-pietonnes.aspx#prrequis-7) pour une rue piétonne.
+<!-- La vie commerciale sur Wellington est déjà exceptionnelle. Selon la SDC, les commerces de cette rue ont [à cinq ans un taux de survie proche de 70%](https://www.promenadewellington.com/fr/locaux-louer-commerciaux-verdun/), dépassant la moyenne canadienne. Si les revenus des entreprises doivent atteindre un seuil pour que la piétonnisation soit envisagée, Wellington est un choix approprié, déjà [répondant aux normes prescrites](https://collectivitesviables.org/articles/rues-pietonnes.aspx#prrequis-7) pour une rue piétonne. -->
 
 
 ## Et les bus?
 
-Wellington est normalement desservie par les lignes d'autobus 58 et 61. Lors de la piétonnisation estivale, ces autobus sont déviés vers le boulevard Lasalle. Pour une rue piétonne ouverte à l’année, plusieurs options de mobilité peuvent être envisagées :
+<!-- Wellington est normalement desservie par les lignes d'autobus 58 et 61. Lors de la piétonnisation estivale, ces autobus sont déviés vers le boulevard Lasalle. Pour une rue piétonne ouverte à l’année, plusieurs options de mobilité peuvent être envisagées :
 
-Pour les utilisateurs de transports en commun qui habitent au nord de Wellington, nous pouvons dévier certains services d'autobus vers la rue de Verdun. Les rues transversales comme de l'Église et Galt pourraient également bénéficier d'évolutions de leurs services adaptées à la rue piétonne.
+Pour les utilisateurs de transports en commun qui habitent au nord de Wellington, nous pouvons dévier certains services d'autobus vers la rue de Verdun. Les rues transversales comme de l'Église et Galt pourraient également bénéficier d'évolutions de leurs services adaptées à la rue piétonne. -->
 
 Dans la zone piétonne, de petites navettes [comme celle-ci en Slovénie](https://www.visitmaribor.si/en/what-to-do/transports/6314-) peuvent constituer une option de transport en commun accessible. Leur faible empreinte leur permet de coexister dans une rue sans voiture, offrant un service qui ne perturbe pas l'environnement urbain.
 
-Les personnes âgées et les personnes à mobilité réduite bénéficient également d'un [service de taxi gratuit](https://www.facebook.com/arrondissementdeverdun/posts/pfbid03VMFDdLDd1a8iagViPmtcb8zwyyMEM5x1Zz5AjhADe2KtGXzLrTqcoUGyGabNTXrl) dans le cadre d'un projet pilote pendant la période de piétonisation dans le secteur couvrant la promenade Wellington. Un tel service pourrait bénéficier d’une expansion et plus grande promotion.
+Les personnes âgées et les personnes à mobilité réduite bénéficient également d'un [service de taxi gratuit](https://www.facebook.com/Eva.coop.OFFICIAL/photos/a.741435239399755/1703311926545410/?paipv=0&eav=AfbXllyPKbO7CVnIBRtC4v4iRe0OliowdseYfp3q7Zgimc2jweDqb8Xq89DYgMj8oNw&_rdr) dans le cadre d'un projet pilote pendant la période de piétonisation dans le secteur couvrant l'Avenue du Mont Royal. Un tel service pourrait bénéficier d’une expansion et plus grande promotion.
 
 <figure>
   <img src="/img/q-and-a/st-hubert-navette-autonome.jpg" alt="A small red shuttle bus on Montreal's Plaza St-Hubert" />
@@ -101,7 +101,7 @@ Bien que nous soyons déterminés à remédier à ces inégalités dans notre vi
 
 La lutte contre l’éco-embourgeoisement nécessite des changements réglementaires et doit être traitée de toute urgence par des niveaux plus élevés de gouvernement et les organismes communautaires. Nous remercions les organismes qui travaillent sur la question des droits des locataires à Verdun :
 
-[Comité d'action des citoyennes et citoyens de Verdun](https://cacv-verdun.org/)
+[Comité Logement du Plateau Mont Royal](https://clpmr.com/)
 
 [Le Regroupement des comités d'habitation et des associations de locataires du Québec (RCLALQ)](https://rclalq.qc.ca/)
 
@@ -126,19 +126,19 @@ Nous croyons que la perte du stationnement sur rue n'est pas une conséquence ma
 Si ce sujet vous intéresse, nous vous recommandons de lire le livre blanc 2023 du _Conseil régional de l’environnement de Montréal_ [_Le stationnement à Montréal : 23 propositions pour une mobilité efficace, équitable et écologique_](https://cdn.ca.yapla.com/company/CPYdNZRxWi163lmbLnVjgAqMF/asset/files/Outils/2023-03-02_CRE-Montreal_Livre-blanc-VF_numerique.pdf) qui présente comment utiliser de manière novatrice et efficace les espaces existants pour les véhicules.
 
 
-<figure>
+<!-- <figure>
   <img src="/img/q-and-a/iga-parking-lot.jpg" alt="Le stationnement derrière l'IGA de Wellington, avec environ la moitié des places de stationnement occupées par des voitures." />
   <figcaption>
     Le stationnement du IGA Wellington, un vendredi à 18h. <br />
     Il ne s'agit pas d'un manque de places de stationnement mais d'une mauvaise affectation des places de stationnement.
   </figcaption>
-</figure>
+</figure> -->
 
 ## Montréal n'est-il pas trop froid pour une rue piétonne?
 
 Peut-être il fait froid à Montréal, mais nous investissons quand même dans nos parcs, terrains de sport, bancs et autres aménagements extérieurs qui sont moins idéaux en hiver. Les froides journées d'hiver font tout simplement partie de la vie, et touchent aussi les propriétaires de voiture, qui doivent chaque hiver pelleter pour sortir leur voiture des congères et bancs de neige.
 
-Un sondage mené par la ville de Montréal révèle que nos habitudes actuelles sont compatibles avec une rue piétonne - il y a [peu de changements dans les modes de déplacement vers Place Wellington en été ou en hiver](https://www.realisonsmtl.ca/3113/widgets/15839/documents/10936) (13% vs 20% en voiture pour chaque saison respectivement).
+<!-- Un sondage mené par la ville de Montréal révèle que nos habitudes actuelles sont compatibles avec une rue piétonne - il y a [peu de changements dans les modes de déplacement vers Place Wellington en été ou en hiver](https://www.realisonsmtl.ca/3113/widgets/15839/documents/10936) (13% vs 20% en voiture pour chaque saison respectivement). -->
 
 Il existe de nombreux exemples de rues piétonnes permanentes parmi les plus renommées en Amérique et en Europe, et qui sont déployées dans des climats plus froids, plus enneigés, plus pluvieux et plus sombres que le nôtre.
 

@@ -1,13 +1,13 @@
 ## Questions and answers
 
-As Plateau residents, we've seen the success and acclaim of the summer pedestrianization of Mont Royal street and its benefits to the community. Our proposal to extend this pedestrianization has led to many questions on its rationale and feasibility:
+As Plateau residents, we've seen the success and acclaim of the summer pedestrianization of Mont Royal Ave. and its benefits to the community. Our proposal to extend this pedestrianization has led to many questions on its rationale and feasibility:
 
 ## Table of contents
 
 
 ## Why should Mont Royal be a pedestrian street?
 
-Pedestrianizing avenue Mont Royal year-round would:
+Pedestrianizing Mont Royal Ave. year-round would:
 - **Increase comfort and safety** for the high volume of vulnerable road users - [28 thousand pedestrians per day](https://commercesmtl.com/fr/local-commercial/mont-royal). This means being able to cross the street without hesitation, or being able to comfortably walk side by side as a couple, family or group of friends.
 
 - **Improve the quality of the urban environment** on one of the Plateau's main commercial streets by reducing noise pollution and adding vegetation, art, and communal spaces.
@@ -28,20 +28,20 @@ Car-free streets and zones are one of the most effective ways to reduce car depe
 
 Residents of the Plateau with an interest in social equity and a desire to improve our urban environment.
 
-## What part of Mont Royal street are you proposing to be pedestrianized?
+## What part of Mont Royal Ave. are you proposing to be pedestrianized?
 
 We propose pedestrianizing the same area as in the summer - from Saint-Laurent street to d'Iberville street.
 
 ## How will this impact accessibility?
 
-Mont Royal street should be universally accessible. Seniors, wheelchair users, and parents with strollers can benefit from the pedestrianization of streets. The public consultation we're requesting will be an opportunity to prioritize vulnerable road users and re-imagine our infrastructure for inclusivity and accessibility.
+Mont Royal Ave. should be universally accessible. Seniors, wheelchair users, and parents with strollers can benefit from the pedestrianization of streets. The public consultation we're requesting will be an opportunity to prioritize vulnerable road users and re-imagine our infrastructure for inclusivity and accessibility.
 
-Mont Royal street currently has a number of accessibility obstacles. A pedestrian street would be an opportunity to resolve these issues by adding access ramps, and in the future, [raising the street](https://hudsoncountyview.com/n-j-group-names-jersey-citys-newark-ave-pedestrian-plaza-municipal-project-of-the-year/) to be level with storefront doors. For now in the summer, we have additional curb access ramps and reserved accessible parking on cross-streets.
+Mont Royal Ave. currently has a number of accessibility obstacles. A pedestrian street would be an opportunity to resolve these issues by adding access ramps, and in the future, [raising the street](https://hudsoncountyview.com/n-j-group-names-jersey-citys-newark-ave-pedestrian-plaza-municipal-project-of-the-year/) to be level with storefront doors. For now in the summer, we have additional curb access ramps and reserved accessible parking on cross-streets.
 
-<!-- TODO replace with mont royal street pic -->
-<figure>
+<!-- TODO replace with mont royal ave pic -->
+<!-- <figure>
   <img src="/img/q-and-a/business-stairs.jpg" alt="Two steps leading to the front door of a grocery store on Wellington" />
-</figure>
+</figure> -->
 
 
 A consideration when discussing accessibility is the variety of health conditions that can impact mobility, many of which do not fit into our presumptions. For instance, there are cognitive, neurological, and motor function disorders that make driving impractical or impossible.
@@ -54,25 +54,26 @@ Seniors over 65 represent 18% of the population of Quebec [but half of pedestria
 
 _We want to hear from mobility-reduced people to understand needs and concerns, so we can advocate for a vision of the Well that is accessible and sustainable. If you or someone you know would like to be in touch about this, [email us](mailto:montroyalpietonne@gmail.com)._
 
-## Won't business suffer if Mont Royal street is pedestrianized?
+## Won't business suffer if Mont Royal Ave. is pedestrianized?
 
 A study analyzing Montreal's commercial streets reveals that [more parking correlates with an increase in storefront vacancy](https://locallogic.co/blog/does-more-parking-bring-more-business) and that in general, [people-oriented streets are more economically productive](https://www.strongtowns.org/journal/2018/1/16/why-walkable-streets-are-more-economically-productive), generate greater tax revenue, and provide a higher return on investment than car-oriented streets. Concerns about the impact on business are often raised when space for cars is removed in our city, though once such projects are completed, [these fears do not materialize](https://montrealgazette.com/news/local-news/jean-talon-market-merchants-coming-around-to-new-square-despite-loss-of-parking).
 
-<!-- TODO to find an article for this  -->
-On Mont Royal street, the rise in foot traffic during pedestrianization has already been quantified. In 2021, Wellington's second year of summer pedestrianization, [foot traffic increased by 17%](https://www.lapresse.ca/actualites/grand-montreal/2022-04-04/dix-rues-de-montreal-reservees-aux-pietons-pour-les-trois-prochains-etes.php).
 
-Business on Wellington is already exceptional. According to the SDC, businesses on this street have [a five-year a survival rate nearing 70%](https://www.promenadewellington.com/en/open-your-business-on-the-strip/), exceeding the Canadian average. If business revenue must meet a threshold for pedestrianization to be considered, Wellington is an appropriate choice, already [meeting the prescribed standards](https://collectivitesviables.org/articles/rues-pietonnes.aspx#prrequis-7) for a pedestrian street.
+On Mont Royal Ave., the rise in foot traffic during pedestrianization has already been quantified. In 2022, Mont Royal Ave.'s third year of summer pedestrianization, [foot traffic increased by 10%](https://mcusercontent.com/7a2232a3f73ab85deec690389/files/57da9748-3576-d07e-87f3-c473a325b482/BILAN_2022.pdf).
+
+<!-- TODO to find an article for this  -->
+<!-- Business on Wellington is already exceptional. According to the SDC, businesses on this street have [a five-year a survival rate nearing 70%](https://www.promenadewellington.com/en/open-your-business-on-the-strip/), exceeding the Canadian average. If business revenue must meet a threshold for pedestrianization to be considered, Wellington is an appropriate choice, already [meeting the prescribed standards](https://collectivitesviables.org/articles/rues-pietonnes.aspx#prrequis-7) for a pedestrian street. -->
 
 ## What about buses?
 
 <!-- TODO to make specific for Mont Royal -->
-Wellington is normally served by bus routes 58 and 61. During summer pedestrianization, these buses are rerouted to Blvd Lasalle. For a year-round pedestrian street, a number of mobility options can be considered:
+<!-- Wellington is normally served by bus routes 58 and 61. During summer pedestrianization, these buses are rerouted to Blvd Lasalle. For a year-round pedestrian street, a number of mobility options can be considered:
 
-For commuters who live north of Wellington, we should consider rerouting some bus service to Rue de Verdun. Cross streets like de l'Église and Galt may also benefit from changes to their services adapted to the pedestrian street.
+For commuters who live north of Wellington, we should consider rerouting some bus service to Rue de Verdun. Cross streets like de l'Église and Galt may also benefit from changes to their services adapted to the pedestrian street. -->
 
 Within the pedestrian zone, small shuttles [like this one in Slovenia](https://www.visitmaribor.si/en/what-to-do/transports/6314-), can be an accessible transit option. Their small footprint allows them to coexist on a car-free street, providing a service that isn't disruptive to the urban environment.
 
-Seniors and people with reduced mobility are also provided a [free taxi service](https://www.facebook.com/arrondissementdeverdun/posts/pfbid03VMFDdLDd1a8iagViPmtcb8zwyyMEM5x1Zz5AjhADe2KtGXzLrTqcoUGyGabNTXrl) in the area covering Promenade Wellington as part of a pilot project during the pedestrianization period. Such service can benefit from greater promotion and expansion.
+Seniors and people with reduced mobility are also provided a [free taxi service](https://www.facebook.com/Eva.coop.OFFICIAL/photos/a.741435239399755/1703311926545410/?paipv=0&eav=AfbXllyPKbO7CVnIBRtC4v4iRe0OliowdseYfp3q7Zgimc2jweDqb8Xq89DYgMj8oNw&_rdr) in the area covering Mont Royal Avenue as part of a pilot project during the pedestrianization period. Such service can benefit from greater promotion and expansion.
 
 <figure>
   <img src="/img/q-and-a/st-hubert-navette-autonome.jpg" alt="A small red shuttle bus on Montreal's Plaza St-Hubert" />
@@ -83,7 +84,7 @@ Seniors and people with reduced mobility are also provided a [free taxi service]
 
 ## What about bikes?
 
-We support the coexistence of cyclists, non-motorized vehicles, and mobility aids on a pedestrianized Mont Royal street. Limitations can be set, such as during special events.
+We support the coexistence of cyclists, non-motorized vehicles, and mobility aids on a pedestrianized Mont Royal Avenue. Limitations can be set, such as during special events.
 
 According to guidelines in _CROW Design Manual for Bicycle Traffic_, [pedestrians and cyclists can coexist given parameters for the size of the street and foot traffic](https://collectivitesviables.org/articles/rues-pietonnes.aspx) (Less than 200 pedestrians per hour per meter of street width). Ongoing discussion on design and needs of residents and commuters can determine the appropriate configuration.
 
@@ -102,7 +103,7 @@ Although we are committed to addressing these inequities in our city, the focus 
 Addressing environmental gentrification requires regulatory changes, and should be dealt with urgently by higher levels of government and community organizations. We’d like to acknowledge the organizations doing work on the issue of tenants rights in the Plateau:
 
 <!-- TODO to replace with local initiatives -->
-[Comité d'action des citoyennes et citoyens de Verdun](https://cacv-verdun.org/)
+[Comité Logement du Plateau Mont Royal](https://clpmr.com/)
 
 [The Coalition of Housing Committees and Tenants Associations of Quebec's (RCLALQ)](https://rclalq.qc.ca/en/)
 
@@ -127,20 +128,20 @@ We believe the loss of street parking is not an unfortunate consequence of pedes
 If you're interested in this topic, we recommend reading the _Conseil régional de l'environnement de Montréal_'s 2023 white book [_Le stationnement à Montréal : 23 propositions pour une mobilité efficace, équitable et écologique_](https://cdn.ca.yapla.com/company/CPYdNZRxWi163lmbLnVjgAqMF/asset/files/Outils/2023-03-02_CRE-Montreal_Livre-blanc-VF_numerique.pdf) that outlines innovative ways we can make efficient use of existing space for vehicles.
 
 <!-- TODO to replace with Mont Royal specific image -->
-<figure>
+<!-- <figure>
   <img src="/img/q-and-a/iga-parking-lot.jpg" alt="The parking lot behind the Wellington IGA, with about half of the parking spots occupied by cars." />
   <figcaption>
     The parking lot of the Wellington IGA at 6pm on a Friday.<br/>
     This is not a lack of parking space but a misallocation of parking space.
   </figcaption>
-</figure>
+</figure> -->
 
 ## Isn't Montreal too cold for a pedestrian street?
 
 Montreal may be cold, but we still invest in our parks, sporting fields, benches, and other outdoor amenities that are less ideal in the winter. Cold winter days are simply a fact of life even for those who have the privilege of shovelling their car out of a snow bank.
 
 <!-- TODO to replace with Mont Royal specific article  -->
-A survey conducted by the city of Montreal reveals that our existing habits are compatible with a pedestrian street - there is [little change in modes of commute to Place Wellington in the summer vs the winter](https://www.realisonsmtl.ca/3113/widgets/15839/documents/10936) (13% vs 20% by car for each season respectively).
+<!-- A survey conducted by the city of Montreal reveals that our existing habits are compatible with a pedestrian street - there is [little change in modes of commute to Place Wellington in the summer vs the winter](https://www.realisonsmtl.ca/3113/widgets/15839/documents/10936) (13% vs 20% by car for each season respectively). -->
 
 Some of the most renowned permanent pedestrian streets in America and Europe are in climates colder, snowier, rainier, and gloomier than ours.
 
@@ -158,7 +159,7 @@ Some of the most renowned permanent pedestrian streets in America and Europe are
   </figcaption>
 </figure>
 
-In our opinion, the only thing more unpleasant than walking in the cold on Mont Royal street is walking in the cold on Mont Royal on its narrow, slushy sidewalks, with cars driving by.
+In our opinion, the only thing more unpleasant than walking in the cold on Mont Royal Ave. is walking in the cold on Mont Royal on its narrow, slushy sidewalks, with cars driving by.
 
 ## How will snow be plowed?
 
