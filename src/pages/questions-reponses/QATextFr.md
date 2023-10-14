@@ -1,16 +1,16 @@
 ## Questions et réponses
 
-En tant que résidents de Verdun, nous avons vu le succès et les éloges de la piétonnisation estivale de Wellington et ses avantages pour la communauté. Notre proposition d'étendre cette piétonnisation a suscité de nombreuses interrogations sur sa logique et sa faisabilité :
+En tant que résidents du Plateau, nous avons vu le succès et les éloges de la piétonnisation estivale d'Avenue du Mont Royal et ses avantages pour la communauté. Notre proposition d'étendre cette piétonnisation a suscité de nombreuses interrogations sur sa logique et sa faisabilité :
 
 ## Table des matières
 
-## Pourquoi Wellington devrait-elle être une rue piétonne?
+## Pourquoi Avenue du Mont Royal devrait-elle être une rue piétonne?
 
-Piétonniser la rue Wellington toute l'année permettrait de :
+Piétonniser l'Avenue du Mont Royal toute l'année permettrait de :
 
-- **Augmenter le confort et la sécurité** pour les usagers vulnérables de la rue - [plus de 5 millions de piétons par an](https://commercesmtl.com/fr/local-commercial/promenade-wellington). Cela signifie pouvoir traverser la rue sans hésitation, ou pouvoir marcher confortablement côte à côte en couple, famille, ou avec un groupe d'amis.
+- **Augmenter le confort et la sécurité** pour les usagers vulnérables de la rue - [plus de 28 mille de piétons par an](https://commercesmtl.com/fr/local-commercial/mont-royal). Cela signifie pouvoir traverser la rue sans hésitation, ou pouvoir marcher confortablement côte à côte en couple, famille, ou avec un groupe d'amis.
 
-- **Améliorer la qualité de l'environnement urbain** sur la rue commerciale principale de Verdun en réduisant les nuisances sonores et en ajoutant de la végétation, de l'art et des espaces communs.
+- **Améliorer la qualité de l'environnement urbain** sur la rue commerciale principale du Plateau en réduisant les nuisances sonores et en ajoutant de la végétation, de l'art et des espaces communs.
 
 - **Réduire l'utilisation et la dépendance de la voiture**, lequel est [essentiel pour atteindre nos objectifs de réduction des émissions](https://www.cbc.ca/news/opinion/opinion-electric-vehicles-car-dependence-1.6534893) de gaz à effet de serre, étant donné que [43 % de nos émissions au Québec proviennent du transport](https://www.quebec.ca/gouvernement/politiques-orientations/plan-economie-verte/actions-lutter-contre-changements-climatiques/reduire-ges-transport).
 
@@ -28,15 +28,15 @@ Les rues et les zones sans voiture sont l'un des moyens les plus efficaces de r�
 
 Des résidents de Verdun ayant un intérêt pour l'équité sociale et un désir d'améliorer notre environnement urbain.
 
-## Quelle partie de Wellington proposez-vous de rendre piétonne?
+## Quelle partie d'Avenue du Mont Royal proposez-vous de rendre piétonne?
 
-Nous proposons de piétonniser le même secteur qu'en été - de la rue Régina à la 6e avenue.
+Nous proposons de piétonniser le même secteur qu'en été - de la rue Saint-Laurent à rue d'Iberville.
 
 ## Quel sera l'impact sur l'accessibilité?
 
-Wellington devrait être universellement accessible. Les personnes âgées, les personnes handicapées et les parents avec poussettes peuvent bénéficier de la piétonnisation des rues. La consultation publique que nous demandons sera l'occasion de prioriser les usagers de la route vulnérables et de réimaginer notre infrastructure pour l'inclusivité et l’accessibilité.
+Avenue du Mont Royal devrait être universellement accessible. Les personnes âgées, les personnes handicapées et les parents avec poussettes peuvent bénéficier de la piétonnisation des rues. La consultation publique que nous demandons sera l'occasion de prioriser les usagers de la route vulnérables et de réimaginer notre infrastructure pour l'inclusivité et l’accessibilité.
 
-Wellington a actuellement plusieures d'obstacles d'accessibilité. Une rue piétonne serait l'occasion de résoudre ces problèmes en ajoutant des rampes d'accès, et à l'avenir, de [soulever la rue](https://hudsoncountyview.com/n-j-group-names-jersey-citys-newark-ave-pedestrian-plaza-municipal-project-of-the-year/) au niveau des portes du magasin. Pour l'instant en été, nous avons des rampes d'accès supplémentaires en bordure de rue et des places de stationnement accessibles dans les rues transversales.
+Avenue du Mont Royal a actuellement plusieures d'obstacles d'accessibilité. Une rue piétonne serait l'occasion de résoudre ces problèmes en ajoutant des rampes d'accès, et à l'avenir, de [soulever la rue](https://hudsoncountyview.com/n-j-group-names-jersey-citys-newark-ave-pedestrian-plaza-municipal-project-of-the-year/) au niveau des portes du magasin. Pour l'instant en été, nous avons des rampes d'accès supplémentaires en bordure de rue et des places de stationnement accessibles dans les rues transversales.
 
 <figure>
   <img src="/img/q-and-a/business-stairs.jpg" alt="Deux marches menant à la porte d'entrée d'une épicerie sur Wellington" />
@@ -53,7 +53,7 @@ Les aînés de plus de 65 ans représentent 18 % de la population du Québec [ma
 _Nous voulons entendre les personnes à mobilité réduite pour comprendre les besoins et les préoccupations, afin que nous puissions défendre une vision du Well accessible et durable. Si vous ou quelqu'un que vous connaissez souhaitez être contacté à ce sujet, [envoyez-nous un courriel](mailto:montroyalpietonne@gmail.com)._
 
 
-## Les commerces ne souffriront-ils pas si Wellington est piétonne?
+## Les commerces ne souffriront-ils pas si Avenue du Mont Royal est piétonne?
 
 Une étude analysant les rues commerciales de Montréal révèle que plus d'espace de stationnement [est corrélé à une augmentation du nombre de magasins vacants](https://locallogic.co/blog/does-more-parking-bring-more-business) et qu’en général, [les rues piétonnes encouragent l'activité commerciale](https://www.strongtowns.org/journal/2018/1/16/why-walkable-streets-are-more-economically-productive) et sont plus productives économiquement, génèrent plus des revenus fiscaux et offrent un retour sur investissement plus élevé que les rues orientées vers l’automobile. 
 
@@ -83,7 +83,7 @@ Les personnes âgées et les personnes à mobilité réduite bénéficient égal
 
 ## Et les vélos?
 
-Nous soutenons la coexistence des cyclistes, des véhicules non motorisés et des triporteurs sur une Wellington piétonne. Des limitations peuvent être définies le cas échéant, par exemple lors d'événements spéciaux.
+Nous soutenons la coexistence des cyclistes, des véhicules non motorisés et des triporteurs sur une Avenue du Mont Royal piétonne. Des limitations peuvent être définies le cas échéant, par exemple lors d'événements spéciaux.
 
 Selon les directives de _CROW Design Manual for Bicycle Traffic,_ [les piétons et les cyclistes peuvent coexister étant donné les paramètres de la taille de la rue et du trafic piétonnier](https://collectivitesviables.org/articles/rues-pietonnes.aspx) (Moins de 200 piétons par heure par mètre de largeur de rue). Une discussion continue sur la conception et les besoins des résidents et des navetteurs peut déterminer la configuration appropriée.
 
@@ -157,7 +157,7 @@ Il existe de nombreux exemples de rues piétonnes permanentes parmi les plus ren
   </figcaption>
 </figure>
 
-À notre avis, la seule chose qui soit plus désagréable que de marcher dans le froid sur Wellington, c'est de marcher dans le froid sur Wellington sur ses trottoirs étroits et boueux, avec des voitures qui roulent.
+À notre avis, la seule chose qui soit plus désagréable que de marcher dans le froid sur Avenue du Mont Royal, c'est de marcher dans le froid sur Avenue du Mont Royal sur ses trottoirs étroits et boueux, avec des voitures qui roulent.
 
 ## Comment la neige sera-t-elle ramassée?
 
