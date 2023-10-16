@@ -58,7 +58,10 @@ const title = (props.title ? `${props.title} - ` : "") + t("siteName");
     --la-well-green: #097d6c;
     --la-well-green-lighter: #0cb097;
 
-    accent-color: var(--la-well-green);
+    --mont-royal-red: #bb295a;
+    --mont-royal-red-lighter: #c54c64;
+
+    accent-color: var(--mont-royal-red);
   }
 
   *,
@@ -113,7 +116,7 @@ const title = (props.title ? `${props.title} - ` : "") + t("siteName");
   }
 
   a {
-    color: var(--la-well-green);
+    color: var(--mont-royal-red);
     text-decoration: none;
   }
 
@@ -136,7 +139,7 @@ const title = (props.title ? `${props.title} - ` : "") + t("siteName");
     padding: 0.5rem 1.5rem;
     line-height: 1.2;
     text-align: center;
-    background-color: var(--la-well-green);
+    background-color: var(--mont-royal-red);
     color: var(--color-bg);
     text-decoration: none;
     border-radius: 10rem;
@@ -148,7 +151,7 @@ const title = (props.title ? `${props.title} - ` : "") + t("siteName");
     color: var(--color-text);
   }
   .button:not([disabled]):hover {
-    background-color: var(--la-well-green-lighter);
+    background-color: var(--mont-royal-red-lighter);
   }
 
   section {
