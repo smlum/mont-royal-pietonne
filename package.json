@@ -2,7 +2,7 @@
   "name": "mont-royal-pietonne",
   "version": "1.0.0",
   "private": true,
-  "description": "Website for Mont Royal Piétonne. A citizens' initiative to make Avenue Mont Royal a year-round pedestrian street.",
+  "description": "Website for Mont Royal Piétonne. A citizens' initiative to make Mont Royal Ave. a year-round pedestrian street.",
   "license": "gabagool",
   "scripts": {
     "dev": "yarn i18n:sync && astro dev",

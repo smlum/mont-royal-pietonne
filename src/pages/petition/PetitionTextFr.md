@@ -1,12 +1,12 @@
-## Piétonniser la rue Wellington en permanence
+## Piétonniser l'Avenue du Mont Royal en permanence
 
-La piétonnisation estivale de Wellington a été acclamée par les résidents,
+La piétonnisation estivale de l'Avenue du Mont Royal a été acclamée par les résidents,
 les conseillers et les médias. Malgré la logistique d'installation et de démontage de l'événement chaque année, le
 commerce, le transit et la fonction générale ont été maintenus.
 
 Dans l'intérêt de la communauté, nous appelons à piétonniser cette rue de façon permanente.
 
-Cette proposition ferait de Verdun un quartier plus agréable, sain,
+Cette proposition ferait de Plateau un quartier plus agréable, sain,
 écologique, équitable, accessible, conviviale aux enfants et socialement intégré, aligné sur les ambitions et les
 valeurs de notre communauté.
 
