@@ -105,6 +105,8 @@ La lutte contre l’éco-embourgeoisement nécessite des changements réglementa
 
 [Le Regroupement des comités d'habitation et des associations de locataires du Québec (RCLALQ)](https://rclalq.qc.ca/)
 
+(Le Front de Lutte pour un Immobilier Populaire)[http://flip-montreal.org/]
+
 ## Est-ce que la rue sera plus bruyante?
 
 Les bruits d'animation, comme ceux des festivaliers et des clients de restaurant, font partie du contexte général d'une ville animée et dynamique.
