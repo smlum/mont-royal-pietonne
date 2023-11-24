@@ -107,6 +107,8 @@ Addressing environmental gentrification requires regulatory changes, and should 
 
 [The Coalition of Housing Committees and Tenants Associations of Quebec's (RCLALQ)](https://rclalq.qc.ca/en/)
 
+(Le Front de Lutte pour un Immobilier Populaire)[http://flip-montreal.org/]
+
 ## Won't it be noisy?
 
 Noise from entertainment venues, or that from clients of bars and restaurants, are attributes of a vibrant and dynamic city.
